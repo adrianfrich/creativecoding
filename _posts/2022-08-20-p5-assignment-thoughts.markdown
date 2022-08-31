@@ -11,15 +11,15 @@ Here is an early progress p5 sketch of the assignment
 By utilising a lot of WEBGL elements into the p5 sketch, I was able to use various 3D shapes to form a planet-like animated graphic - which I'm all over for, I'd love to have something showcased like this on my personal folio. I combined a rotating rotating torus with a rotating cube spinning in the opposite direction so it looked a little bit more chaotic. 
 
 {% highlight ruby %}
-function draw () {
-background(175);
-rotateX(angle);
-rotateY(angle * 0.3);
-rotateZ(angle * 1.2);
+    function draw () {
+    background(175);
+    rotateX(angle);
+    rotateY(angle * 0.3);
+    rotateZ(angle * 1.2);
 
-normalMaterial();
-noStroke();
-torus(100,10);
+    normalMaterial();
+    noStroke();
+    torus(100,10);
 {% endhighlight %}
 
 
@@ -31,20 +31,20 @@ Here is the finished product of the assignment. Overall I found the experience q
 <br>
 <br>
 
-Building on top of this, the assignment called for text elements and branding to be included, so at this stage I needed to figure out how to put text on the rotating cube - this proved to be the most difficult part of the sketch. Only because I haven't discovered the createGraphics function at this stage. But by using this function, you are able to call a texture funtion onto the cube itself and it will replace all faces of the cube with whatever you have in the setup
+Building on top of this, the assignment called for text elements and branding to be included, so at this stage I needed to figure out how to put text on the rotating cube - this proved to be the most difficult part of the sketch. Only because I haven't discovered the createGraphics function at this stage. But by using this function, you are able to call a texture function onto the cube itself and it will replace all faces of the cube with whatever you have in the setup.
 
 {% highlight ruby %}
-  text = createGraphics(300, 100);
-  text.fill(230, 30, 42);
-  text.textAlign(CENTER);
-  text.textFont(museo);
-  text.textSize(50);
-  text.text("RMIT", 140, 50);
+    text = createGraphics(300, 100);
+    text.fill(230, 30, 42);
+    text.textAlign(CENTER);
+    text.textFont(museo);
+    text.textSize(50);
+    text.text("RMIT", 140, 50);
 {% endhighlight %}
 
 {% highlight ruby %}
-  texture(text);
-  box(90);
+    texture(text);
+    box(90);
 {% endhighlight %}
 
 Ideas that I'd like to implement to future projects/learn how to do: 
