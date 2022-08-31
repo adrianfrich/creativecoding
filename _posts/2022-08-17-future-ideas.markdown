@@ -15,7 +15,7 @@ categories: jekyll update
 <br>
 <h1> three.js research</h1>
 
-<p> The basics of three.js sound very familiar (some of the p5 elements sound like they can be translated here, especially with the perspective camera, scene and using WEBGL.) Once you have set up the three basic components, the scene, the camera and the renderer, you are ready to go! Below I've included the basic setup of how it looks.
+<p> The basics of three.js sound very familiar (some of the p5 elements sound like they can be translated here, especially with the perspective camera, scene and using WEBGL.) Once you have set up the three basic components, the scene, the camera and the renderer, you are ready to go! Below I've included the basic setup of how it looks. Obviously the possibilities after this basic setup is endless, I'm keen to build on top of what i've learnt with javascript so far. 
 <br>
 <br>
 

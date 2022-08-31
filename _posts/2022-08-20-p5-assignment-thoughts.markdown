@@ -52,4 +52,3 @@ Ideas that I'd like to implement to future projects/learn how to do:
 - controllable game within website
 - rotatable 3D models with scrollable gallery-like feature using the scroll mouse wheel. 
 
-<iframe src="https://editor.p5js.org/adrianfrich/full/BTtTPSQCL" width="576" height="324"></iframe>
