@@ -18,6 +18,6 @@ A lot of my ideas and inspirations come from a 3D design perspective, if there's
 </p>
 
 
-<iframe src="https://editor.p5js.org/adrianfrich/full/BTtTPSQCL"width="700" height="700"></iframe>
+<iframe src="https://editor.p5js.org/adrianfrich/full/BTtTPSQCL" width="576" height="324"> </iframe>
 
 <p>

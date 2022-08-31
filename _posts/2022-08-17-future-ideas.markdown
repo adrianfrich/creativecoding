@@ -15,4 +15,9 @@ categories: jekyll update
 <br>
 <h1> three.js research</h1>
 
-<p> The first assignment was a great introduction to the basics of javascript and the p5 library. It's opened up a lot of new doors in terms of skills to play around with. 
+<p> The first assignment was a great introduction to the basics of javascript and the p5 library. It's opened up a lot of new doors in terms of skills to play around with. I've learnt that there are different libraries to play around with such as anime.js which goes into a lot of animation techniques, it's     
+
+
+{% highlight ruby %}
+
+{% endhighlight %}
