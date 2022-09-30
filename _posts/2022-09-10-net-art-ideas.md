@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "p5 assignment thoughts"
+title:  "post-humanism"
 date:   2022-09-10 14:12:29 +1000
 categories: jekyll update
 ---
@@ -17,11 +17,9 @@ When we create or design, or ideate, what is it that we are projecting? Sometime
 Understanding Post-Humanism
 the tldr version in my understanding - The social issues we face today stem from a, more or less, lack of humility in people caused by one's desire to selfishly achieve one's own benefit
 
-Posthumanism: 
 
 
 
-https://www.youtube.com/watch?v=u5NuCrAkjGw&ab_channel=LouisianaChannel
 
 "When you put energy into a website, in turn the website helps form your own identity" - Laurel Schwults
 
